@@ -1,3 +1,35 @@
+    AMACART - A FULL STACK ECOMMERCE WEB APP
+
+
+
+https://user-images.githubusercontent.com/72704839/208284261-d6e23b1f-1809-4b21-88cf-a2a76640b356.mp4
+
+
+This is a Full Stack Ecommerce web application made using React JS,Sanity DB and Stripe primarily so basically the front end is made using React JS and the backend
+is maintained by using Sanity DB wherein most of our data is stored and yeah as you all know React helps us display those data by the cool features that it provides
+and in addition to that we make use of Stripe in order to maintain our transaction, the current project is made for demo purposes so i do not use any real money. In
+order to do that just add fake account so to know that checkout google it'll help you out with that. Clone and run project to avoid confusions and to have a clear
+overview.
+
+If Any Queries 
+
+
+Email me at => amaanullah60@gmail.com
+
+
+
+                                                                KUDOS!!!
+
+
+
+
+
+
+
+
+GET STARTED !!!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
